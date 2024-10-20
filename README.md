@@ -39,7 +39,7 @@ Welcome to the **Rule Engine AST Parser and Evaluator** project! This applicatio
 
 ## Demo
 
-![Demo Screenshot](./public/screenshot.png)
+[![Demo Screenshot](./public/screenshot.png)](https://rule-engine-ast-chi.vercel.app/)
 
 ---
 
